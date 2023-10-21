@@ -1,0 +1,558 @@
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.dll
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.dll
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.xml
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CopyComplete
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll.config
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.dll
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.dll
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.dll
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.dll
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.xml
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.xml
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.xml
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.xml
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Дом\Desktop\Учеба\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll.config
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.pdb
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.dll
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.dll
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.dll
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.dll
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.dll
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.dll
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.dll
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.dll
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.dll
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.xml
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.pdb
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.xml
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.xml
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.xml
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.xml
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.xml
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.xml
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.xml
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.xml
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csprojAssemblyReference.cache
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CoreCompileInputs.cache
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CopyComplete
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.dll
+D:\ВКР\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.pdb
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll.config
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.pdb
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.dll
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.dll
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.dll
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.dll
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.dll
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.dll
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.dll
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.dll
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.dll
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.xml
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.pdb
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.xml
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.xml
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.xml
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.xml
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.xml
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.xml
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.xml
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.xml
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.AssemblyReference.cache
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CoreCompileInputs.cache
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CopyComplete
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.dll
+G:\ВКР\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.pdb
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll.config
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.pdb
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.dll
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.dll
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.dll
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.dll
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.dll
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.dll
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.dll
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.dll
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.dll
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.xml
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.pdb
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.xml
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.xml
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.xml
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.xml
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.xml
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.xml
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.xml
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.xml
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csprojAssemblyReference.cache
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CoreCompileInputs.cache
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CopyComplete
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.dll
+D:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.pdb
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll.config
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.pdb
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.dll
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.dll
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.dll
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.dll
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.dll
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.dll
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.dll
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.dll
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.dll
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.xml
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.pdb
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.xml
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.xml
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.xml
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.xml
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.xml
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.xml
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.xml
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.xml
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.AssemblyReference.cache
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CoreCompileInputs.cache
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CopyComplete
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.dll
+G:\ВКР — копия\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.pdb
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll.config
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.pdb
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.dll
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.dll
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.dll
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.dll
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.dll
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.dll
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.dll
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.dll
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.dll
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.xml
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.pdb
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.xml
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.xml
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.xml
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.xml
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.xml
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.xml
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.xml
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.xml
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.AssemblyReference.cache
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CoreCompileInputs.cache
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CopyComplete
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.dll
+G:\ВКР 21.04\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll.config
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CopyComplete
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 22.04\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll.config
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CopyComplete
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 17.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll.config
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CopyComplete
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 19.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll.config
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CopyComplete
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 20.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.pdb
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll.config
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.pdb
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.dll
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.dll
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.dll
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.dll
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.dll
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.dll
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.dll
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.dll
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.dll
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.xml
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.pdb
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.xml
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.xml
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.xml
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.xml
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.xml
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.xml
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.xml
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.xml
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.AssemblyReference.cache
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CoreCompileInputs.cache
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CopyComplete
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.dll
+G:\ВКР 22.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.pdb
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll.config
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.pdb
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.dll
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.dll
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.dll
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.dll
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.dll
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.dll
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.dll
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.dll
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.dll
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.xml
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.pdb
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.xml
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.xml
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.xml
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.xml
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.xml
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.xml
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.xml
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.xml
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.AssemblyReference.cache
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CoreCompileInputs.cache
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CopyComplete
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.dll
+G:\ВКР 24.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll.config
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 31.05\ВКР 23.05\ВКР 24.05\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CopyComplete
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll.config
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.pdb
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CopyComplete
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.dll
+C:\Users\Дом\Desktop\Учеба\ВКР 07.06\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.pdb
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll.config
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.pdb
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.dll
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.dll
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.dll
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.dll
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.dll
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.dll
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.dll
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.dll
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.dll
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.xml
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.pdb
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.xml
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.xml
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.xml
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.xml
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.xml
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.xml
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.xml
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.xml
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.AssemblyReference.cache
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CoreCompileInputs.cache
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CopyComplete
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.dll
+G:\ВКР 08.06\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.pdb
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll.config
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.pdb
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.dll
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.dll
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.dll
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.dll
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.dll
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.dll
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.dll
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.dll
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.dll
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.xml
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.pdb
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.xml
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.xml
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.xml
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.xml
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.xml
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.xml
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.xml
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.xml
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.AssemblyReference.cache
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CoreCompileInputs.cache
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CopyComplete
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.dll
+G:\ВКР 09.06\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.pdb
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll.config
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.pdb
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.dll
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.dll
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.dll
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.dll
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.dll
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.dll
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.dll
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.dll
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.dll
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.xml
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.pdb
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.xml
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.xml
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.xml
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.xml
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.xml
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.xml
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.xml
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.xml
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.AssemblyReference.cache
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CoreCompileInputs.cache
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CopyComplete
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.dll
+G:\ВКР 15.06 Final\ВКР 15.06 Final\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.pdb
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll.config
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.dll
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MetalCalcLibrary.pdb
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.dll
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.dll
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.dll
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.dll
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.dll
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.pdb
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Google.Protobuf.xml
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\MySql.Data.xml
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\Renci.SshNet.xml
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Buffers.xml
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Memory.xml
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.csproj.CopyComplete
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.dll
+C:\Users\Home\Desktop\ВКР 15.06 Final для GitHub\MetalAreaCalc\MetalCalcLibrary\obj\Debug\MetalCalcLibrary.pdb
